@@ -1,4 +1,4 @@
-# Mage Collections
+# Manage-Collections
 
 Mage Collections es una aplicación web que utiliza la API de Unsplash para mostrar colecciones de imágenes personalizadas y hace uso de la inteligencia artificial para mejorar la experiencia del usuario. El proyecto está construido con **Astro**, **React** en el frontend, y **Express** en el backend. 
 
